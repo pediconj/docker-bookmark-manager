@@ -1,4 +1,4 @@
-# Multi-Container Bookmark Manager (COSC349 Assignment 1)
+# Multi-Container Bookmark Manager
 
 A simple, reproducible three-tier bookmark management application built for virtualized environments using Docker and Docker Compose. 
 
